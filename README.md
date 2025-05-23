@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jenifer Andrea Torres
+# 👋 Hi, I'm Jenifer Andrea
 
-### 👩‍💻 Principal DevOps Engineer | Cloud Architect | AWS & Azure Certified | IaC & GenAI Specialist
+### 👩‍💻 DevOps Engineer | Cloud Architect | AWS & Azure Certified | IaC & GenAI Specialist
 
 Welcome to my GitHub profile!
 
