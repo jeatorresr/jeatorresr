@@ -1,60 +1,68 @@
 # 👋 Hi, I'm Jenifer Andrea
 
-### 👩‍💻 DevOps Engineer | Cloud Architect | AWS & Azure Certified | IaC & GenAI Specialist
+### 👩‍💻 DevOps Engineer | AWS | Azure | GCP | Terraform | CI/CD | GenAI
 
-Welcome to my GitHub profile!
+Welcome to my GitHub!
 
-I'm a DevOps and Cloud Engineer with over **5 years of hands-on experience** designing, automating, and scaling cloud-native infrastructure across **AWS, Azure, and GCP**. I specialize in Infrastructure as Code (IaC), secure CI/CD pipelines, observability, and integrating Generative AI into DevOps workflows.
+I'm a seasoned DevOps and Site Reliability Engineer with **5+ years of experience** designing, automating, and scaling cloud infrastructure and CI/CD pipelines. I’ve worked across **AWS, Azure, and GCP**, driving innovation and reliability in cloud-native environments through **Infrastructure as Code**, **security automation**, and **observability**.
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 💻 I build and maintain automated, reliable, and scalable cloud infrastructure using **Terraform**, **CloudFormation**, and **CI/CD tools**
-- ☁️ I’ve delivered full-stack cloud projects across **AWS**, **Azure**, and **GCP** using services like **ECS**, **Lambda**, **RDS**, **AKS**, and **API Gateway**
-- 🧠 I'm passionate about applying **Generative AI** to DevOps — using **Amazon Bedrock**, **LangChain**, and agent-based architectures
-- 🔐 I lead with a **DevSecOps-first mindset**, focusing on proactive security, compliance automation, and cost optimization
-- 📈 I leverage observability platforms such as **Grafana**, **Prometheus**, **ELK**, and **CloudWatch** for proactive incident response and SLA reliability
+- 🔧 I build resilient, reproducible infrastructure using **Terraform** and **CloudFormation**
+- 🧪 I design and manage robust CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **Azure DevOps**
+- ☁️ I manage multi-cloud deployments with a focus on **automation**, **security**, and **cost efficiency**
+- 🧠 I explore **Generative AI for cloud automation**, building intelligent agents with **Amazon Bedrock**
+- 📊 I implement monitoring and logging stacks with **Grafana**, **Prometheus**, and **CloudWatch**
+- 📦 I package solutions in **Docker**, orchestrated via **Kubernetes**, **ECS**, or **Helm**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Cloud Platforms**  
+**Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**IaC & Automation**  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**CI/CD & DevSecOps**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 **Containers & Orchestration**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-0052CC?style=flat-square&logo=amazonaws&logoColor=white)
-
-**CI/CD & DevSecOps**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-**Infrastructure as Code**  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 **Monitoring & Observability**  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-
-**Scripting & Languages**  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
 
 ---
 
-## 🧠 Certifications
+## 📂 Featured Projects
+
+- 🔁 **Reusable Terraform Modules**: Built for scalable, multi-environment infrastructure in AWS and Azure  
+- ⚙️ **CI/CD Pipelines**: Jenkins, GitHub Actions, and Azure DevOps pipelines for multi-stage cloud deployments  
+- 🧠 **AI DevOps Agent**: GenAI-powered assistant for infrastructure orchestration using Bedrock & LangChain  
+- 🌐 **Cloud Migrations**: Supported enterprise-level transitions to AWS and Azure  
+- 📊 **Monitoring Stacks**: Grafana/Prometheus/CloudWatch dashboards for proactive incident response  
+
+---
+
+## 🏆 Certifications
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -65,21 +73,14 @@ I'm a DevOps and Cloud Engineer with over **5 years of hands-on experience** des
 
 ---
 
-## 🔭 Current Interests
-
-- Building AI-integrated DevOps tooling and assistants
-- Scaling infrastructure with event-driven and serverless patterns
-- Designing multi-cloud solutions with security and compliance by design
-- Automating cloud governance and FinOps operations
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to:
-- 🤖 Collaborations in AI + DevOps projects
-- 💼 Freelance and consulting opportunities
-- 🎤 Tech talks and mentoring
+- 🌐 Freelance and consulting DevOps/Cloud projects
+- 🤖 AI + Infrastructure innovation and collaboration
+- 🎓 Mentoring and speaking engagements
 
-📫 Reach out on [LinkedIn](https://www.linkedin.com/in/jeniferandreatorres)  
-🌐 Portfolio website coming soon...
+📫 **Email**: jeniferandreatorres@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/jandreatorresrodriguez](https://linkedin.com/in/jandreatorresrodriguez)
+
+---
